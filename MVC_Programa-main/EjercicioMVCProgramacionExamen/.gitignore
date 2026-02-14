@@ -1,0 +1,17 @@
+# Archivos de compilación y salida
+build/
+dist/
+nbdist/
+bin/
+
+# Configuración específica de NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Librerías externas (opcional, pero recomendado si usas Maven)
+# lib/
